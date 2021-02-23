@@ -4,8 +4,7 @@ channels:
   - defaults
 prefix: /opt/conda
 dependencies:
-  - python=3.8
-  - python_abi=3.8
+  - python=3.8.2
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=1_gnu
   - alembic=1.5.4=pyhd8ed1ab_0
